@@ -24,3 +24,11 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 
 ### 5. Izračuni in enačbe
 Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrbovale posebne enačbe.
+
+### 6. Videoposnetek delovanja
+
+### 7. A-test
+
+### 8. Komentar
+
+### 9. Izboljšave
