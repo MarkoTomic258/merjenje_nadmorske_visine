@@ -17,7 +17,7 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 ![Vezava](vezava_easyeda.png)
 
 ### 4. Načrt ohišja
-![Načrt](ohišje_onshape.png)
+![Ohišje](ohišje_onshape.png)
 
 ### Pokrov
 ![Pokrov](pokrov_onshape.png)
