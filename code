@@ -3,7 +3,7 @@
 #include <Adafruit_BME280.h>
 #include <LiquidCrystal_I2C.h>
 
-#define SEALEVELPRESSURE_HPA (1013.25)
+#define SEALEVELPRESSURE_HPA (1028.7)
 
 Adafruit_BME280 bme;
 LiquidCrystal_I2C lcd(0x27, 20, 4);
