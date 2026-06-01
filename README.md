@@ -30,5 +30,5 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale posebne
 ### 7. A-test
 
 ### 8. Komentar
-
+Merilna naprava deluje kot zadano, meja napake je v mejah normale. Meritve so bile narejene, ko je bil zračni tlak približno 1022 hPa.
 ### 9. Izboljšave
