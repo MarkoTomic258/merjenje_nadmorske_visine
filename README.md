@@ -1,7 +1,7 @@
 # Merjenje nadmorske višine
 
 ### 1. Opis projekta
-Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280, ki s pomočjo meritev temprerature, vlage in tlaka skozi programsko kodo izračuna nadmorsko višino. Na LCD zaslonu se prikazujejo vsi podatki, ki vplivajo na izračun nadmorske višine (temperatura, vlaga, tlak). 
+Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280, ki s pomočjo meritev temprerature, vlage in tlaka skozi programsko kodo izračuna nadmorsko višino. Na LCD zaslonu se prikazujejo vsi podatki, ki vplivajo na izračun nadmorske višine (temperatura, vlaga, tlak) ter nadmorska višina v Hpa
 
 ### 2. Kosovnica
 * Arduino UNO
@@ -31,7 +31,7 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale posebne
 ![Atest](a.test.jpg)
 
 ### 8. Komentar
-Merilna naprava deluje kot zadano, meja napake je v mejah normale. Meritve so bile narejene, ko je bil zračni tlak približno 1022 hPa.
+Merilna naprava deluje stabilno in v skladu s pričakovanji, meja napake je v mejah normale. Meritve so bile narejene, ko je bil zračni tlak približno 1022 hPa. Ker je bil zračni tlak v času kalibracije blizu standardne vrednosti, so izračuni nadmorske višine natančni.
 
 ### 9. Izboljšave
 Za izboljšavo merilnika nadmorske višine bi lahko dodali gumba za kalibracijo zračnega tlaka v realnem času, uvedli programsko glajenje podatkov z drsnim povprečjem ali napravo opremili z GPS modulom in MicroSD kartico za beleženje poti.
