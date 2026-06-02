@@ -31,7 +31,7 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale posebne
 ![Atest](a.test.jpg)
 
 ### 8. Komentar
-Merilna naprava deluje stabilno in v skladu s pričakovanji, meja napake je v mejah normale. Meritve so bile narejene, ko je bil zračni tlak približno 1022 hPa. Ker je bil zračni tlak v času kalibracije blizu standardne vrednosti, so izračuni nadmorske višine natančni.
+Merilna naprava deluje stabilno in v skladu s pričakovanji, meja napake je v mejah normale. Meritve so bile narejene, ko je bil zračni tlak približno 1022 hPa. Ker je bil zračni tlak v času kalibracije blizu standardne vrednosti, so izračuni nadmorske višine natančni. Z vezavo sva imela veliko problemov, žičke so se velikokrat staknile
 
 ### 9. Izboljšave
 Za izboljšavo merilnika nadmorske višine bi lahko dodali gumba za kalibracijo zračnega tlaka v realnem času, uvedli programsko glajenje podatkov z drsnim povprečjem ali napravo opremili z GPS modulom in MicroSD kartico za beleženje poti.
