@@ -31,7 +31,7 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale posebne
 ![Atest](a.test.jpg)
 
 ### 8. Komentar
-Merilna naprava deluje stabilno in v skladu s pričakovanji, meja napake je v mejah normale. Meritve so bile narejene, ko je bil zračni tlak približno 1022 hPa. Ker je bil zračni tlak v času kalibracije blizu standardne vrednosti, so izračuni nadmorske višine natančni. Z vezavo sva imela veliko problemov, žičke so se velikokrat staknile, zato sva problem rešila s tem, da sva uporabila več pinske konektroje za Arduino žičke. Probleme sva imela tudi s povezovanjem groundov, potrebovala sva originalno hitro sponko, da je vezava delovala kot bi morala. 
+Merilna naprava deluje stabilno in v skladu s pričakovanji, meja napake pa je v mejah normale. Meritve so bile opravljene, ko je bil zračni tlak približno 1022 hPa. Ker je bil zračni tlak v času kalibracije blizu standardne vrednosti, so izračuni nadmorske višine natančni. Z vezavo sva imela veliko težav, saj so se žičke večkrat staknile, zato sva težavo rešila tako, da sva uporabila večpinske konektorje za Arduino žičke. Težave sva imela tudi s povezovanjem ozemljitev (GND), kjer sva potrebovala originalno hitro sponko, da je vezava delovala, kot bi morala.
 
 ### 9. Izboljšave
 Za izboljšavo merilnika nadmorske višine bi lahko dodala gumba za kalibracijo zračnega tlaka v realnem času, uvedla programsko glajenje podatkov z drsnim povprečjem ali napravo opremila z GPS modulom in MicroSD kartico za beleženje poti.
