@@ -17,10 +17,10 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 ![Vezava](vezava_easyeda.png)
 
 ### 4. Načrt ohišja
-![Ohišje](ohišje_Onshape.png)
+![Ohišje](škatla_onshape.png)
 
 ### Pokrov
-![Pokrov](pokrov_Onshape.png)
+![Pokrov](pokrov_onshape.png)
 
 ### 5. Izračuni in enačbe
 Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale enačbe in izračune.
