@@ -22,6 +22,9 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 ### Pokrov
 ![Pokrov](pokrov_onshape.png)
 
+### Ohišje za senzor
+![Senzor](ohišje_senzor.png)
+
 ### 5. Izračuni in enačbe
 Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale enačbe in izračune.
 
