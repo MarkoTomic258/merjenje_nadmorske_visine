@@ -30,6 +30,7 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale enačbe
 
 ### Videoposnetek delovanja
 
+
 ### A-test
 ![Atest](a_test.jpg)
 
