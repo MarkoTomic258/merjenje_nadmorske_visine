@@ -30,6 +30,7 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale enačbe
 
 ### Videoposnetek delovanja
 https://github.com/user-attachments/assets/02deefcb-a9b5-40ab-951b-67d8feb4908a
+
 Posnetek si lahko ogledate tudi na YouTubu: [Klikni me](https://youtube.com/shorts/nMZC6nQ5Q0s?feature=share)
 
 ### A-test
