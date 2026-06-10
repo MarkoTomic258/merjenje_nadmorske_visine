@@ -31,7 +31,7 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale enačbe in izračune.
 
 ## Programska koda
-Koda se nahaja v: [Klikni me](arduino_koda.ino)
+Koda se nahaja tu:  [Klikni me](arduino_koda.ino)
 
 ## Videoposnetek delovanja
 https://github.com/user-attachments/assets/02deefcb-a9b5-40ab-951b-67d8feb4908a
