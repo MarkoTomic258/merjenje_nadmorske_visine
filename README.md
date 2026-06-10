@@ -1,9 +1,9 @@
 # Naprava za merjenje nadmorske višine 
 
-### Opis projekta
+## Opis projekta
 Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280, ki s pomočjo meritev temperature, vlage in tlaka prek programske kode izračuna nadmorsko višino. Na LCD-zaslonu se izpisujejo nadmorska višina ter vsi podatki, ki vplivajo na njen izračun (temperatura, vlaga in tlak).
 
-### Kosovnica
+## Kosovnica
 * Arduino UNO
 * LCD 20x4
 * BME280 senzor
@@ -13,10 +13,12 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 * Hitra sponka
 * Povezovalne žičke
 
-### Vezalna shema
+## Vezalna shema
 ![Vezava](vezava_easyeda.png)
 
 ## Načrt ohišja
+
+### Škatla
 ![Ohišje](škatla_onshape.png)
 
 ### Pokrov
