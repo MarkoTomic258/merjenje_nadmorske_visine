@@ -32,6 +32,7 @@ Za izdelavo najine vezave nisva potrebovala komponent, ki bi potrebovale enačbe
 
 ### A-test
 ![Atest](a_test.jpg)
+
 Največje odstopanje pri meritvah je bilo ± 3,3 %.
 
 ### Komentar
