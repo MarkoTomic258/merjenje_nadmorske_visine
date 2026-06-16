@@ -20,14 +20,17 @@ Ustvarila sva napravo za merjenje nadmorske višine. Uporabila sva senzor BME280
 
 ### Škatla
 ![Ohišje](škatla_onshape.png)
+
 STL file: [Klikni me](stl.škatla.stl)
 
 ### Pokrov
 ![Pokrov](pokrov_onshape.png)
+
 STL file: [Klikni me](stl.pokrov.stl)
 
 ### Ohišje za senzor
 ![Senzor](senzor_ohišje.png)
+
 STL file: [Klikni me](stl.senzor.stl)
 
 ### Izračuni in enačbe
